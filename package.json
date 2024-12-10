@@ -1,0 +1,16 @@
+{
+  "name": "com.hrs.customproperties",
+  "version": "1.0.0",
+  "displayName": "Custom Properties",
+  "description": "",
+  "unity": "2019.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "",""
+  ],
+  "dependencies": {
+    
+  }
+}
